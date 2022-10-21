@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2? family= Lato:ital,wght@0,700;1,700 & display=swap');
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+    background-color: rgb(242,232,214);
+    
+}
+
+header {
+    background-color: rgb(255,174,129);
+    margin: 0;
+    height: 100px;
+    line-height: 100px;
+    width: 100%;
+}
+
+h1 { 
+    font-family: 'Pristina'; font-size: 44px;
+    text-align: center; 
+}
+
+.container {
+    display: flex;
+    text-align: left;
+    justify-content: left;
+}
+
+.botones {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.boton1inicio {
+    background-color: white;
+    border: 2px solid #ffd185;
+    border-radius: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.boton2nosotros {
+    background-color: white;
+    border: 2px solid #ffd185;
+    border-radius: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.boton3actividades {
+    background-color: white;
+    border: 2px solid #ffd185;
+    border-radius: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.boton4fotos {
+    background-color: white;
+    border: 2px solid #ffd185;
+    border-radius: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.boton5servicios {
+    background-color: white;
+    border: 2px solid #ffd185;
+    border-radius: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.boton6contacto {
+    background-color: white;
+    border: 2px solid #ffd185;
+    border-radius: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+}
